@@ -1,0 +1,8 @@
+i=int(input("Enter a number: "))
+print(i)
+s=input("Enter a string: ")
+print(s)
+f=float(input("Enter a float value: "))
+print(f)
+b=bool(input("Enter True or False: "))
+print(b)
